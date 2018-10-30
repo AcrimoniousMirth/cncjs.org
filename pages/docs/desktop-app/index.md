@@ -31,6 +31,10 @@ After that, you can restore the setting to default. Gatekeeper won't show you th
 
 ![image](https://cloud.githubusercontent.com/assets/447801/15507483/60e07a64-21fe-11e6-8433-018ba975c661.png)
 
+#### Alternatively:
+To download such files on a case-by-case basis, by right clicking on the file and choosing "Open", you will override this security feature and a second warning will pop up, which you can accept. After this, that file will open every time without warning you.
+
+
 ### Linux (ia32)
 Download "cnc-{version}-linux-ia32.deb" or "cnc-{version}-linux-ia32.tar.gz" to install the app in Debian or Ubuntu Linux (i386).
 
